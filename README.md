@@ -34,10 +34,13 @@
 
 <h2>📁 Folder Structure</h2>
 
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+<ul>
+  <li>index.html</li>
+  <li>style.css</li>
+  <li>script.js</li>
+  <li>README.md</li>
+</ul>
+
 <br> <h2>🚀 How to Run Locally</h2> <ol> <li>Clone the repo:<br><code>git clone https://github.com/Prabhjot20022008/geo-ride.git</code></li> <li>Navigate to project folder:<br><code>cd geo-ride</code></li> <li>Open <code>index.html</code> in your browser</li> </ol>
 ⚡ No deployment or server needed. Runs entirely in your browser!
 
