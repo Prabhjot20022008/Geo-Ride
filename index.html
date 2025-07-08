@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GEO-RIDE</title>
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <h1>Geo-Ride</h1>
+    </header>
+
+    <main>
+        <div class="input-cont">
+
+            <div class="cont-head">
+                <p>Geo-Ride</p>
+            </div>
+
+            <div class="cont-body">
+                <p>Enter a Country Name</p>
+                <input type="text" placeholder="e.g. India">
+                <button>Explore</button>
+            </div>
+
+        </div>
+
+        <div class="output-cont">
+            <img class="flag-img" src="https://t4.ftcdn.net/jpg/00/69/68/61/360_F_69686132_hhGgrZGQxReATU3VO1Nqv6VxqPe02MVZ.jpg" alt="World Map" />
+
+            <p class="para hide">Official Name : <span id="name"></span></p>
+            <p class="para hide">Capital : <span id="capital"></span></p>
+            <p class="para hide">Population : <span id="population"></span></p>
+            <p class="para hide">Currency : <span id="currency"></span></p>
+            <p class="para hide">Continent : <span id="continent"></span></p>
+            <p class="para hide" style="padding-top: 6px;">Time-zone (s) : <span id="timezone"></span></p>
+
+            <p class="loading"></p>
+        </div>
+        
+    </main>
+    <script src="/script.js"></script>
+</body>
+</html>
