@@ -38,7 +38,7 @@
 ├── style.css
 ├── script.js
 └── README.md
-<br> <h2>🚀 How to Run Locally</h2> <ol> <li>Clone the repo:<br><code>git clone https://github.com/your-username/geo-ride.git</code></li> <li>Navigate to project folder:<br><code>cd geo-ride</code></li> <li>Open <code>index.html</code> in your browser</li> </ol>
+<br> <h2>🚀 How to Run Locally</h2> <ol> <li>Clone the repo:<br><code>git clone https://github.com/Prabhjot20022008/geo-ride.git</code></li> <li>Navigate to project folder:<br><code>cd geo-ride</code></li> <li>Open <code>index.html</code> in your browser</li> </ol>
 ⚡ No deployment or server needed. Runs entirely in your browser!
 
 <br> <h2>🌟 What's Special?</h2> <ul> <li>Beginner-friendly JavaScript project to practice API calls</li> <li>Animated button interactions and live data rendering</li> <li>Auto-formatted numbers like “1.43 Billion” & “54.2 Million”</li> </ul> <br> <h2>🔗 API Reference</h2>
